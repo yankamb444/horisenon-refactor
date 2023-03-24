@@ -7,4 +7,6 @@ The goal of this project was to increase website accessibility for those using s
 
 <img src="https://github.com/yankamb444/horisenon-refactor/blob/main/assets/images/screenshot.jpeg" />
 
+## License
 
+Refer to the license in the repository.
